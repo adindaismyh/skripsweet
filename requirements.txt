@@ -11,5 +11,4 @@ Pillow
 requests
 streamlit-lottie
 st-annotated-text
-math
 scikit-learn
