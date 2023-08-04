@@ -1,0 +1,10 @@
+pandas
+matplotlib
+numpy
+datetime
+streamlit
+streamlit-option-menu
+plotly.express
+statistics
+plotly
+Pillow
