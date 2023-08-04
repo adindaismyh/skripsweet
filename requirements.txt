@@ -2,9 +2,15 @@ pandas
 matplotlib
 numpy
 datetime
+time
 streamlit
 streamlit-option-menu
 plotly.express
 statistics
 plotly
 Pillow
+requests
+streamlit-lottie
+st-annotated-text
+math
+scikit-learn
