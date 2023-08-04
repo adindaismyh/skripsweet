@@ -2,7 +2,6 @@ pandas
 matplotlib
 numpy
 datetime
-time
 streamlit
 streamlit-option-menu
 plotly.express
